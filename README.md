@@ -10,4 +10,4 @@ I'm a software developer and engineer. 7+ years of experience in development. As
 - 📬 Reach me out on **[LinkedIn](https://www.linkedin.com/in/lucas-martendal/)** or **[E-mail me](mailto.lucasmartendal777@gmail.com)**.
 - ✌️ Feel free to contact and ask me anything. See you!
 
-![Martenda's GitHub stats](https://github-readme-stats-xi-two-25.vercel.app/api?username=Martenda&hide=prs&show=prs_merged&hide_rank=true&show_icons=true&include_all_commits=false&hide_border=true)
+![Martenda's GitHub stats](https://github-readme-stats-xi-two-25.vercel.app/api?username=Martenda&hide=prs,issues&show=prs_merged&hide_rank=true&show_icons=true&include_all_commits=true&hide_border=true)
