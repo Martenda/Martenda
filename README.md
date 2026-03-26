@@ -1,6 +1,6 @@
 # Hi there, I'm Lucas! 👋😁
 
-I'm a software developer and engineer. 7+ years of experience in development. Aspiring to a career in A.I. engineering.
+I'm a software developer and engineer. 8+ years of experience in development. Aspiring to a career in A.I. engineering.
 
 - 🔭 I’m currently working as a software developer for BMsoft Commercial Systems, based in Brazil.
 - 🌱 I’m learning about Machine Learning and Neural Networks.
